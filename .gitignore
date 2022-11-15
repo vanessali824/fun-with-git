@@ -1,0 +1,3 @@
+*.log 
+.DS_store
+//never commit a log file / this is for when you use git add .
